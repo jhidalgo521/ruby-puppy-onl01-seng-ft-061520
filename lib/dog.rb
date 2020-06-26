@@ -29,4 +29,6 @@ class Dog
   def name
     @name
   end
+  
+  bidning.pry 
 end 
