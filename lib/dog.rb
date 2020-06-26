@@ -30,5 +30,5 @@ class Dog
     @name
   end
   
-  bidning.pry 
+  binding.pry 
 end 
